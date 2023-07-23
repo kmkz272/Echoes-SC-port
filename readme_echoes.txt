@@ -9,7 +9,8 @@ Half Life: Echoes 1.3|1.4 made by James Coburn, ported to Sven Co-op by kmkz. v1
 7. Download site
 8  Survival
 9. Garompa fake fix
-10. Credits 
+10. Custom versions
+11. Credits 
 
 -------------------------------------------------------------------------------------
  
@@ -44,6 +45,8 @@ cannot do anything about that.
 if otis wins he gets bugged and stays still, i could not solve it yet.
 -echoes-10: the scientist does not open the door for bonus goods, i could not find
 why the scientist is not detected by the trigger. 
+-echoes-11: lately, this map is causing a crash on map start and not just this version
+but all the prior merged versions. I could not make sence of it yet. 
 The water pool on the floor looks like stuttering. This happen after merging the maps,
 i tried to solved this but so far nothing worked.
 
@@ -75,24 +78,32 @@ about real issues and i am starting to believe they are just trolling.
 
 7. Download site
 
-For now i am using scmapdb.com to store my Sven Co-op maps/ports. This site has has been 
-going downhill in the last years and is not a safe place for mappers to upload their 
-maps since there are clear signs that the administrators may attempt to force random 
-modifications over the maps hidden under the questionable "fixed" tag. Sadly this site 
-has no alternative but i will try to find one.
+https://github.com/kmkz272/
+
+I am using github to store my Sven Co-op ports and scripts since is far better than 
+scmapdb, and so i am not using it anymore. This site has has been going downhill 
+in the last years and is not a safe place for mappers to upload their maps since the 
+incopetent administrators have been pushing and even forcing changes on other users 
+maps based on their personal preferences, often making false reports in hope to gain 
+some kind of legitimacy to push their changes as a way to feel they are somehow 
+supporting the community since they are unwilling to keep themselves on their own 
+projects and make their own maps. Please, do not upload this to scmapdb.
 
 ------------------------------------------------------------------------------------
 
 8. Survival
 
-I do not support survival mode. The checkpoints are there but i cannot say if this
-works correctly, i am not interested in this mode.
+I do not support survival mode, i am not interested. Over the years there have been 
+many signs from the devs that they are not willing to properly maintain this feature.
 
 ------------------------------------------------------------------------------------
 
 9. Garompa fake fix
 
-Since this is still generating confusion i will explain clearly.
+Please be careful when you download a custom version. There are guy posing as experts,
+making false bug reports and uploading fake fixes.
+
+I will explain about this one:
 The user Garompa uploaded a fake fixed version of echoes and made unnecessary, 
 unauthorised changes to the page in the scmapdb site. I reverted the changes and told him
 to not do vandalism there. Then, since i deleted the fake fixed version he starting 
@@ -152,9 +163,20 @@ At no point they menction what are these bugs, also i have been fixing them ASAP
 possible. Or garompa making up i have a prejudice against people because i am from 
 Argentina.
 
+------------------------------------------------------------------------------------
+
+10. Custom versions
+
+Avoid making custom versions of this pack. While i have been open to this some time ago
+some people have been disrespecfully doing random changes on maps from the cummunity on 
+scmapdb, making false bug reports and that kind of crap. So, until the enviroment get 
+more healthy do not upload custom versions.
+My DL site is https://github.com/kmkz272/ .If you find custom versions elsewhere these
+are not mine and may have changes forced against my will.  
+
 -------------------------------------------------------------------------------------
 
-10. Credits
+11. Credits
 - Echoes 1.3|1.4 (half-life mod) by James Coburn. (Check original mod credits for more details.) 
 - Port to Sven Co-op by kmkz.
 - Hand NPC models by Makaber. 
@@ -164,9 +186,7 @@ Argentina.
 - Thanks Levi for his bug reports. 
 - Gametitle script: I am not sure who did this.
 - Other scripts: kmkz.
-- You can make your own version of this port as long as you respect the credits and do not
-use it for shady purposes like being disrectful to someone, smuggling malware, sharing fake 
-fixes or whatever the creative minds of the trolls can come with.
+
 
 
 
