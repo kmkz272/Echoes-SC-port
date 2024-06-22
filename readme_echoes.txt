@@ -89,6 +89,8 @@ many signs from the devs that they are not willing to properly maintain this fea
 
 9. Garompa repack
 
+This has uploaded to scmapdb.
+
 About this one, "garompa repack version", is worthless and outdated. There is no 
 explanation about what he changed but as far as i have seen he just edited the Alyx 
 model and deleted the sounds paths from the model plus innecessary file changes.
