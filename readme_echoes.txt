@@ -42,10 +42,9 @@ that can be improved a bit the main problem is wpoly rising to very high values,
 cannot do anything about that.
 -echoes-5: in battle otis vs. bullsquid the bullsquid always win. This is because
 if otis wins he gets bugged and stays still, i could not solve it yet.
--echoes-6: water is disconnected. This was caused when the maps were merged. Tried
-many things to solve this but none worked so far. 
 -echoes-10: the scientist does not open the door for bonus goods, i could not find
 why the scientist is not detected by the trigger. 
+
 -------------------------------------------------------------------------------------
 
 5. Quality Standars
@@ -73,14 +72,11 @@ about real issues and i am starting to believe they are just trolling.
 https://github.com/kmkz272/
 https://gamebanana.com/mods/496418
 
-I am using github to store my Sven Co-op ports and scripts since is far better than 
-scmapdb, and so i am not using it anymore. This site has has been going downhill 
-in the last years and is not a safe place for mappers to upload their maps since the 
-incopetent administrators have been pushing and even forcing changes on other users 
-maps based on their personal preferences, often making false reports in hope to gain 
-some kind of legitimacy to push their changes as a way to feel they are somehow 
-supporting the community since they are unwilling to keep themselves on their own 
-projects and make their own maps. Please, do not upload this to scmapdb.
+I am using github and gamebanana to store my Sven Co-op ports and scripts since they 
+are far better than scmapdb, and so i am not using it anymore. This site has has been
+going downhill in the last years and is not a safe place for mappers to upload their 
+maps since the management is out of control and doing whatever they want with the maps 
+stored there. Please, do not upload this to scmapdb.
 
 ------------------------------------------------------------------------------------
 
@@ -91,78 +87,11 @@ many signs from the devs that they are not willing to properly maintain this fea
 
 ------------------------------------------------------------------------------------
 
-9. Garompa fake fix
+9. Garompa repack
 
-Please be careful when you download a custom version. There are guy posing as experts,
-making false bug reports and uploading fake fixes or shady/useless versions labeled as
-"repacks,remaster,updated,..."
-
-I will explain about this one:
-The user Garompa uploaded a fake fixed version of echoes and made unnecessary, 
-unauthorised changes to the page in the scmapdb site. I reverted the changes and told him
-to not do vandalism there. Then, since i deleted the fake fixed version he starting 
-discussing a valid way to upload it with a scmapbd administrator (Tunac) in the scmapdb 
-discord without asking or caring about why i removed it in the first place. I Already
-had a build up of annoyance from prior attemps from them to make me change stuff based on
-ignorance and assumptions. With them i mean the user Garompa and the administrators 
-Outerbeast and Tunac. These 3 have a arrogance problem. Also, they already forced changes
-on others mappers projects. Example: "SA13" and "Last unic" even when the mapper rejected 
-these changes. He wanted Last unic to not be uploaded to scmapdb but instead garompa 
-modified and uploaded it to the site with support of the administrators. So, i decided to
-make a stand agaist them and left "that message" on the echoes page. For now it looks like
-they are holding off but who knows when they will strike again?
-
-The details of the fake fix changes:
-
-he added these 7 files:
-player/playersounds/alyx_gordon01.wav
-player/playersounds/alyx_hurt04.wav
-player/playersounds/alyx_hurt05.wav
-player/playersounds/alyx_hurt06.wav
-player/playersounds/alyx_ohgod01.wav
-player/playersounds/alyx_uggh01.wav
-player/playersounds/alyx_uggh02.wav
-
-he deleted these 2 files: 
-weapons/xbow_reload1.ogg
-barney/period.ogg
-
-He added the corresponding .res changes.
-He deleted the original author credits files.
-He deleted and transfered to the echoes page the contents of my own credits file.
-he did not modify any .bsp
-
-about the Alyx sounds these are not used in the game. The Alyx model is used in echoes-14
-(or former echoes24) and some unused sequences use these sounds. So they are not needed.
-the xbow_reload1 is a extra file and it is ok to delete it. still, is worth saying that
-an extra file will not change your game.
-The barney sound is an duplicate file i added for convenience of mine. Deleting it will
-not make a difference.
-
-We can notice that these changes are made by poor, lazy use of resguy/W00tguy repacker 
-script where he did not verify if there was a real problem.
-
-In case it is not clear enough i will make a list of what is wrong here:
-- he uploaded a "fixed version" without asking me about it, knowing i am an active user.
-- he deleted credits files. This is the most basic thing you should not do.
-- poor work using the w00tguy repacker script. 
-- his "fixed version" does not solve any real problem. So, it is fake.
-- he Uploaded a fake fixed version, treating mine as an inferior one, implying my version
-has problems he solved.
-- they attempted to force me to accept the fake fix.
-- he is hiding the changes, not telling what are the bugs "fixed". 
-- at no point they asked, or cared about why i did not wanted the "fixed version".
-- Afterwards they backlashed with speaking garbage about me like "kmkz do not fix bugs"
-At no point they menction what are these bugs, also i have been fixing them ASAP when 
-possible. Or garompa making up i have a prejudice against people because i am from 
-Argentina. 
-
-
-About a newer one, "garompa repack version", is worthless as well. There is no explanation 
-about what he changed but as far as i have seen he just edited the Alyx model and deleted 
-the sounds paths from the model plus innecessary file changes like the explaned above.
-So this repack is a useless edit that does not give anything good to the player,
-just used to make a false claim that he "fixed" something.
+About this one, "garompa repack version", is worthless and outdated. There is no 
+explanation about what he changed but as far as i have seen he just edited the Alyx 
+model and deleted the sounds paths from the model plus innecessary file changes.
 
 ------------------------------------------------------------------------------------
 
