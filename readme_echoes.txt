@@ -8,7 +8,7 @@ Half Life: Echoes 1.3|1.4 made by James Coburn, ported to Sven Co-op by kmkz. v1
 6. bug-reports
 7. Download site
 8  Survival
-9. Garompa fake fix
+9. Garompa repack
 10. Credits 
 
 -------------------------------------------------------------------------------------
