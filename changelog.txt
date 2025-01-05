@@ -130,7 +130,6 @@ echoes-0: fixed truck driver jittering.
 echoes-1: fixed scientist playing wrong animation.
 echoes-6: fixed red fading effect playing at a wrong time. Fixed initial loadout not being updated in the flooded area.
 echoes-7: fixed elevators/lifts smashing issues.
-(thanks levi again for the echoes event).
 
 – v1.16
 27/11/2022
@@ -158,7 +157,20 @@ echoes-8: fixed broken lift respawn.
 - v1.18
 2/6/2024
 echoes-6_1: fixed "broken" water.
-edhoes-7: fixed elevator door bug when blocked. 
+edhoes-7: fixed elevator door bug when blocked.
+
+- v1.18.1
+11/8/2024
+echoes-3: added a small change in the .cfg file to remove the small fall damage that affects games with 1 hp plugin.
+
+- v1.19
+5/1/2025
+fixed many invisible/displaced objets (caused by 5.26 update)
+Barney activating scanners became trickier in SC 5.26. So i made adjustments to make it easier.
+enabled pc_balancing.
+custom footsteps sounds is enabled by default.
+echoes-1: fixed scientist stuck in the ramp area after 5.26 update.
+echoes-7: fixed gman not showing up. 
 
 
 
