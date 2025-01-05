@@ -385,50 +385,50 @@ HookReturnCode PlayerPreThink( CBasePlayer@ pPlayer, uint& out dummy )
 				{
 					case uint32( CHAR_TEX_CONCRETE ):
 					{
-						fvol = 0.5;
+						fvol = 0.8;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_METAL ):
 					{
-						fvol = 0.5;
+						fvol = 0.9;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_DIRT ):
 					{
-						fvol = 0.55;
+						fvol = 0.75;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_VENT ):
 					{
-						fvol = 0.7;
+						fvol = 0.9;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_GRATE ):
 					{
-						fvol = 0.5;
+						fvol = 0.7;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_TILE ):
 					{
-						fvol = 0.5;
+						fvol = 0.7;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					case uint32( CHAR_TEX_SLOSH ):
 					{
-						fvol = 0.5;
+						fvol = 0.7;
 						next = g_Engine.time + 0.3;
 						break;
 					}
 					// if you need it, add cases for the other texture types here, otherwise the default case below is used
 					default:
 					{
-						fvol = 0.5;
+						fvol = 0.7;
 						next = g_Engine.time + 0.3;
 						break;
 					}

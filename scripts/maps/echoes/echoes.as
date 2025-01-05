@@ -1,4 +1,4 @@
-//#include "footsteps"
+#include "footsteps"
 #include "gametitle"
 #include "../kmkz/data_savestate"
 #include "../kmkz/data_loadstate"
@@ -45,5 +45,5 @@ void MapInit()
 	RegisterGameSpriteTextButton();
 	g_CustomEntityFuncs.RegisterCustomEntity( "CChangeSky", "trigger_changesky2" );
 	LoadSettings();
-	//FootstepInit();
+	FootstepInit();
 }
