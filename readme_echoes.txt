@@ -1,4 +1,4 @@
-Half Life: Echoes 1.3|1.4 made by James Coburn, ported to Sven Co-op by kmkz. v1.19
+Half Life: Echoes 1.3|1.4 made by James Coburn, ported to Sven Co-op by kmkz. v1.19.1
 
 1. Description
 2. Important Notes 

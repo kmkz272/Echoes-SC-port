@@ -170,7 +170,11 @@ Barney activating scanners became trickier in SC 5.26. So i made adjustments to 
 enabled pc_balancing.
 custom footsteps sounds is enabled by default.
 echoes-1: fixed scientist stuck in the ramp area after 5.26 update.
-echoes-7: fixed gman not showing up. 
+echoes-7: fixed gman not showing up.
+
+- v1.19.1
+5/4/2025
+
 
 
 
