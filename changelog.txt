@@ -174,8 +174,11 @@ echoes-7: fixed gman not showing up.
 
 - v1.19.1
 5/4/2025
+scripts update
 
-
+- v1.19.2
+23/8/2025
+scripts update
 
 
 
